@@ -1,0 +1,19 @@
+{
+   "manifest_version": 2,
+   "name": "SideSeek", 
+   "description": "Seek YouTube videos with your side scroll wheel.",
+   "version": "1.0.0",
+   "content_scripts": [
+      {
+         "js": [
+            "content.js"
+         ],
+         "matches": [
+            "*://www.youtube.com/*"
+         ]
+      }
+   ],
+   "web_accessible_resources": [
+      "wheel_event_listener.js"
+   ]
+}
