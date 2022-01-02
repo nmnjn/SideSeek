@@ -4,7 +4,7 @@ Chrome extension to seek YouTube videos with your side scroll wheel.
 <br/>
 
 ## Installation 📦
-- Download the zip [here](https://github.com/nmnjn/SideSeek/raw/main/SideSeek.zip) and unzip it.
+- Download the zip [here](https://github.com/nmnjn/SideSeek/raw/master/SideSeek.zip) and unzip it.
 - Navigate to [chrome://extensions/](chrome://extensions/)
 - Toggle on developer mode. (Top Right)
 - Click on `Load Unpacked`. (Top Left)
